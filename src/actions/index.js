@@ -1,5 +1,4 @@
 import { ADD_REMINDER, DELETE_REMINDER } from '../constants';
-import { bake_cookie, read_cookie} from 'sfcookies';
 
 export const addReminder = (text, dueDate) => {
     const action = {
