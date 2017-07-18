@@ -1,6 +1,7 @@
 {
   "name": "reminder-pro",
   "version": "0.1.0",
+  "homepage": "https://github.com/EditK/reminder-pro",
   "private": true,
   "dependencies": {
     "gulp": "^3.9.1",
